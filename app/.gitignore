@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# ML Model Files
+*.pkl
+*.joblib
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# OS Files
+.DS_Store
+Thumbs.db
