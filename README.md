@@ -5,6 +5,7 @@ An end-to-end Machine Learning API deployment project using FastAPI, Docker, Ama
 This project predicts Iris flower species using a trained Scikit-learn model. The application was developed with FastAPI, containerized using Docker, and deployed on AWS ECS Fargate for scalable cloud-based API hosting.
 
 🔹 Features
+
 FastAPI REST API
 Machine Learning Prediction Model
 Pydantic Validation
@@ -14,12 +15,15 @@ CloudWatch Logging
 Swagger Documentation
 
 🛠️ Technologies Used
+
 Python | FastAPI | Docker | AWS ECS | AWS ECR | Scikit-learn | CloudWatch
 
 📌 Deployment Flow
+
 VS Code → Docker → Amazon ECR → ECS Fargate → Public API
 
 🚀 Learning Outcomes
+
 Docker Containerization
 Cloud Deployment
 ECS Fargate Architecture
