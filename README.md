@@ -6,12 +6,12 @@ This project predicts Iris flower species using a trained Scikit-learn model. Th
 
 🔹 Features
 
-FastAPI REST API
-Machine Learning Prediction Model
-Pydantic Validation
-Docker Containerization
-AWS ECS Fargate Deployment
-CloudWatch Logging
+FastAPI REST API,
+Machine Learning Prediction Model,
+Pydantic Validation,
+Docker Containerization,
+AWS ECS Fargate Deployment,
+CloudWatch Logging and
 Swagger Documentation
 
 🛠️ Technologies Used
@@ -24,9 +24,9 @@ VS Code → Docker → Amazon ECR → ECS Fargate → Public API
 
 🚀 Learning Outcomes
 
-Docker Containerization
-Cloud Deployment
-ECS Fargate Architecture
-FastAPI Development
-AWS Networking & Security Groups
+Docker Containerization,
+Cloud Deployment,
+ECS Fargate Architecture,
+FastAPI Development,
+AWS Networking & Security Groups and
 Production-style API Deployment
